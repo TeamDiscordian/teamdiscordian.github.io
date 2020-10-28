@@ -5,7 +5,7 @@ description: >
   All of the documentation needed for the Discordian Discord Server
 lang: en-US
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+baseurl: "/Docs" # the subpath of your site, e.g. /blog/
 url: https://teamdiscordian.github.io/Docs # the base hostname & protocol for your site
 git_address: https://github.com/TeamDiscordian/Docs
 git_edit_address: https://github.com/TeamDiscordian/Docs/blob/Docs
