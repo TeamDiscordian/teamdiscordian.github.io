@@ -5,9 +5,9 @@
 - title: Cybersecurity
   docs:
     - title: Browsing The Internet Safely
-      path: browsing
+      path: browsing.md
     - title: How To Keep Your Information Safe
-      path: security
+      path: security.md
 
 # - title: Programming
 #   docs:
