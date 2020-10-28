@@ -1,11 +1,12 @@
-- title: Getting Started
+- title: Welcome
   docs:
-  - home
-  - themes
-  - customization
+    - home
 
-- title: Examples
+- title: Cybersecurity
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+    - safebrowsing
+    - safeinformation
+
+- title: Programming
+  docs:
+
