@@ -6,8 +6,8 @@ description: >
 lang: en-US
 
 baseurl: "/docs" # the subpath of your site, e.g. /blog/
-url: https://teamdiscordian.github.io/ # the base hostname & protocol for your site
-git_address: https://github.com/TeamDiscordian/docs
+url: https://teamdiscordian.github.io # the base hostname & protocol for your site
+git_address: https://github.com/TeamDiscordian/teamdiscordian.github.io
 git_edit_address: https://github.com/TeamDiscordian/teamdiscordian.github.io/blob/main/_docs
 
 # theme options from https://bootswatch.com/3/
