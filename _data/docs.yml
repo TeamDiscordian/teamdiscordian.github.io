@@ -4,9 +4,9 @@
 
 - title: Cybersecurity
   docs:
-    - safebrowsing
-    - safeinformation
+    - cybersecurity/browsing
+    - cybersecurity/information
 
-- title: Programming
-  docs:
+# - title: Programming
+#   docs:
 
