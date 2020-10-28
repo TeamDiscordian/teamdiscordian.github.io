@@ -4,8 +4,8 @@
 
 - title: Cybersecurity
   docs:
-    - browsing
-    - information
+    - cybersecurity/browsing
+    - cybersecurity/security
 
 # - title: Programming
 #   docs:
