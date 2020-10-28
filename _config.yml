@@ -6,9 +6,9 @@ description: >
 lang: en-US
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://teamdiscordian.github.io/docs # the base hostname & protocol for your site
+url: https://teamdiscordian.github.io/Docs # the base hostname & protocol for your site
 git_address: https://github.com/TeamDiscordian/Docs
-git_edit_address: https://github.com/TeamDiscordian/Docs/blob/gh-pages
+git_edit_address: https://github.com/TeamDiscordian/Docs/blob/Docs
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
