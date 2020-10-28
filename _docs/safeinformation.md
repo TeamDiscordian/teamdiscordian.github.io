@@ -1,6 +1,6 @@
 ---
 title: How To Keep Your Information Safe
-permalink: /docs/cybersecurity/information
+permalink: /docs/cybersecurity/privacy
 ---
 
 

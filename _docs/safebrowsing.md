@@ -17,17 +17,29 @@ Hackers tend to start by dismantling your life in noobified terms which is the s
 ``Known Term:`` Doxing/Social Engineering
 
 **First Name**
+
 **Last Name**
+
 **Address**
+
 **City/Town**
+
 **State/Providence**
+
 **Country**
+
 **Gamertags**
+
 **Emails**
+
 **Passwords**
+
 **IP Address**
+
 **Known Hobbies**
+
 **Relatives**
+
 **Your Friends**
 
 Once this information is obtained is usually sold or used to continue in obtaining what they are looking for and that is your financial information.

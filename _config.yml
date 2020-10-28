@@ -5,10 +5,10 @@ description: >
   All of the documentation needed for the Discordian Discord Server
 lang: en-US
 
-baseurl: "/Docs" # the subpath of your site, e.g. /blog/
-url: https://teamdiscordian.github.io/Docs # the base hostname & protocol for your site
-git_address: https://github.com/TeamDiscordian/Docs
-git_edit_address: https://github.com/TeamDiscordian/Docs/blob/Docs
+baseurl: "/docs" # the subpath of your site, e.g. /blog/
+url: https://teamdiscordian.github.io/docs # the base hostname & protocol for your site
+git_address: https://github.com/TeamDiscordian/docs
+git_edit_address: https://github.com/TeamDiscordian/teamdiscordian.github.io/blob/main/_docs
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
