@@ -1,13 +1,11 @@
 - title: Welcome
   docs:
-    - home
+  - home
 
 - title: Cybersecurity
   docs:
-    - title: Browsing The Internet Safely
-      path: browsing.md
-    - title: How To Keep Your Information Safe
-      path: security.md
+  - browsing
+  - security
 
 # - title: Programming
 #   docs:
